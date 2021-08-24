@@ -1,4 +1,4 @@
-Kamtech-eCom-Extensions
+Globalecom
 =======================
 
-Kamtech eCom Extensions
+Global eCom Extensions
