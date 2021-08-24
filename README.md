@@ -1,4 +1,1 @@
 Globalecom
-=======================
-
-Global eCom Extensions
